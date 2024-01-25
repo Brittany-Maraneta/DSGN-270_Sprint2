@@ -16,7 +16,7 @@ svg:hover .backdrop {
 }
 
 svg:hover .person {
-  animation-duration: 3000ms;
+  animation-duration: 3500ms;
   transform-origin: 24.691px 35.778px;
   animation-direction: reverse;
   animation-name: slide;
